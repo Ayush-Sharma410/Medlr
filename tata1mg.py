@@ -1,3 +1,4 @@
+## Here I have used another python library and webscraped the data from tata1mg using HTMLSession ##
 import pyppdf.patch_pyppeteer
 from requests_html import HTMLSession
 from csv import writer
