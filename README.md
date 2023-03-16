@@ -1,2 +1,2 @@
 # Medlr 
-Webscraping with python using HTMLSession and BeautifulSoup
+Webscraping of various pharmaceutical websites with python using HTMLSession,BeautifulSoup and Hidden APIs.
